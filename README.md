@@ -6,6 +6,7 @@
   <img src="images/sim_suction_logo.png" alt="Sim-Suction Logo" width="500"><br>
   <strong>Sim-Suction:</strong> Learning a Suction Grasp Policy for Cluttered Environments Using a Synthetic Benchmark.<br>
   Juncheng Li, David J. Cappelleri.<br>
+  <br>IEEE Transactions on Robotics<br>
   <a href="https://arxiv.org/abs/2305.16378">Paper</a> | 
   <a href="https://junchengli1.github.io/Sim-Suction/"><strong>Project Website</strong></a>
 </p>
