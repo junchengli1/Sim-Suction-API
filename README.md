@@ -680,11 +680,12 @@ Here you will find information about the updates and improvements in each releas
 If you find this work useful for your research, please consider citing our paper:
 
 ```bibtex
-@misc{li2023simsuction,
-      title={Sim-Suction: Learning a Suction Grasp Policy for Cluttered Environments Using a Synthetic Benchmark}, 
-      author={Juncheng Li and David J. Cappelleri},
-      year={2023},
-      eprint={2305.16378},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO}
-}
+@ARTICLE{10314015,
+  author={Li, Juncheng and Cappelleri, David J.},
+  journal={IEEE Transactions on Robotics}, 
+  title={Sim-Suction: Learning a Suction Grasp Policy for Cluttered Environments Using a Synthetic Benchmark}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-16},
+  doi={10.1109/TRO.2023.3331679}}
